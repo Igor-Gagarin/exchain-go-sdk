@@ -1,4 +1,4 @@
-module github.com/okex/exchain-go-sdk
+module github.com/igor-gagarin/exchain-go-sdk
 
 go 1.16
 
