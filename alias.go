@@ -1,18 +1,18 @@
 package gosdk
 
 import (
-	ammswap "github.com/okex/exchain-go-sdk/module/ammswap/types"
-	auth "github.com/okex/exchain-go-sdk/module/auth/types"
-	dex "github.com/okex/exchain-go-sdk/module/dex/types"
-	evm "github.com/okex/exchain-go-sdk/module/evm/types"
-	governance "github.com/okex/exchain-go-sdk/module/governance/types"
-	order "github.com/okex/exchain-go-sdk/module/order/types"
-	staking "github.com/okex/exchain-go-sdk/module/staking/types"
-	tendermint "github.com/okex/exchain-go-sdk/module/tendermint/types"
-	token "github.com/okex/exchain-go-sdk/module/token/types"
-	"github.com/okex/exchain-go-sdk/types"
-	sdk "github.com/okex/exchain/libs/cosmos-sdk/types"
-	farm "github.com/okex/exchain/x/farm/types"
+	ammswap "github.com/okx/exchain-go-sdk/module/ammswap/types"
+	auth "github.com/okx/exchain-go-sdk/module/auth/types"
+	dex "github.com/okx/exchain-go-sdk/module/dex/types"
+	evm "github.com/okx/exchain-go-sdk/module/evm/types"
+	governance "github.com/okx/exchain-go-sdk/module/governance/types"
+	order "github.com/okx/exchain-go-sdk/module/order/types"
+	staking "github.com/okx/exchain-go-sdk/module/staking/types"
+	tendermint "github.com/okx/exchain-go-sdk/module/tendermint/types"
+	token "github.com/okx/exchain-go-sdk/module/token/types"
+	"github.com/okx/exchain-go-sdk/types"
+	sdk "github.com/okx/exchain/libs/cosmos-sdk/types"
+	farm "github.com/okx/exchain/x/farm/types"
 )
 
 // const
